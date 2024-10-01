@@ -405,6 +405,18 @@
 .bg-breadcrumb .breadcrumb .breadcrumb-item a {
     color: var(--bs-white);
 }
+
+.cotiza-btn {
+    background-color: var(--bs-primary);
+    color: var(--bs-white);
+    transition: all 1s;
+}
+
+.cotiza-btn:hover {
+    background-color: var(--bs-white) !important;
+    color: var(--bs-primary) !important;
+}
+
 /*** Single Page Hero Header End ***/
 
 
